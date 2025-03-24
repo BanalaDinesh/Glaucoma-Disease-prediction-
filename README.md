@@ -1,4 +1,4 @@
-# 🩺 Glaucoma Detection using CNN
+# 🩺 Glaucoma Detection using SNN
 
 A deep learning-based Glaucoma Detection System that classifies retinal images as Glaucoma or No Glaucoma using a Convolutional Neural Network (CNN). Built with PyTorch and deployed using Streamlit.
 
